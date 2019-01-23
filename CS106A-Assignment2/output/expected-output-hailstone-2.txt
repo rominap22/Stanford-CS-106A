@@ -1,0 +1,20 @@
+This program computes Hailstone sequences.
+
+Enter a number: 11
+11 is odd, so I make 3n + 1: 34
+34 is even, so I take half: 17
+17 is odd, so I make 3n + 1: 52
+52 is even, so I take half: 26
+26 is even, so I take half: 13
+13 is odd, so I make 3n + 1: 40
+40 is even, so I take half: 20
+20 is even, so I take half: 10
+10 is even, so I take half: 5
+5 is odd, so I make 3n + 1: 16
+16 is even, so I take half: 8
+8 is even, so I take half: 4
+4 is even, so I take half: 2
+2 is even, so I take half: 1
+It took 14 steps to reach 1.
+Run again? n
+Thanks for using Hailstone.

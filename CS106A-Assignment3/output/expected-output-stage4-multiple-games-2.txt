@@ -1,0 +1,1269 @@
+CS 106A Snowman!
+I will think of a random word.
+You'll try to guess its letters.
+Every time you guess a letter
+that isn't in my word, a new
+piece of the snowman appears.
+Guess correctly to avoid
+bringing him to life in the sun!
+
+Dictionary filename? oops.txt
+Unable to open that file. Try again.
+Dictionary filename? large.txt
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : ----
+Your guesses: 
+Guesses left: 8
+Your guess? a
+Correct!
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : -A-A
+Your guesses: A
+Guesses left: 8
+Your guess? b
+Incorrect.
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+
+
+                        -----------
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                  
+#######
+Secret word : -A-A
+Your guesses: AB
+Guesses left: 7
+Your guess? c
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : -A-A
+Your guesses: ABC
+Guesses left: 6
+Your guess? d
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : -A-A
+Your guesses: ABCD
+Guesses left: 5
+Your guess? e
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /    \/_               
+                   \\   {'------'}_   //
+                    \\  /          \ //
+                     \/'           '/\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                     
+#######
+Secret word : -A-A
+Your guesses: ABCDE
+Guesses left: 4
+Your guess? i
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : -A-A
+Your guesses: ABCDEI
+Guesses left: 3
+Your guess? o
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : -A-A
+Your guesses: ABCDEIO
+Guesses left: 2
+Your guess? u
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|                 
+    (_   _    _)       _|_L1____|_
+      (_) (__)        [___________]          _(  )_( )_
+                      /           \        (_   _    _)
+                     ()           ()         (_) (__)
+                      \           /            
+                  _\/  \         /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^
+#######
+Secret word : -A-A
+Your guesses: ABCDEIOU
+Guesses left: 1
+Your guess? T
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|               
+    (_   _    _)       _|_L1____|_          \__|__/
+      (_) (__)        [___________]         /     \
+                      /           \      --:       :--
+                     ()   O  O    ()        \_____/
+                      \ ~~~       /         /  |  \
+                  _\/  \  .''.   /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^  
+#######
+You lose! My word was "JAVA".
+Play again (Y/N)? l
+Illegal boolean format
+Play again (Y/N)? v
+Illegal boolean format
+Play again (Y/N)? Y
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : ------
+Your guesses: 
+Guesses left: 8
+Your guess? a
+Incorrect.
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+
+
+                        -----------
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                  
+#######
+Secret word : ------
+Your guesses: A
+Guesses left: 7
+Your guess? A
+You already guessed that letter.
+Your guess? E
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : ------
+Your guesses: AE
+Guesses left: 6
+Your guess? i
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : --I---
+Your guesses: AEI
+Guesses left: 6
+Your guess? O
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : --I---
+Your guesses: AEIO
+Guesses left: 5
+Your guess? u
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /    \/_               
+                   \\   {'------'}_   //
+                    \\  /          \ //
+                     \/'           '/\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                     
+#######
+Secret word : --I---
+Your guesses: AEIOU
+Guesses left: 4
+Your guess? r
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /    \/_               
+                   \\   {'------'}_   //
+                    \\  /          \ //
+                     \/'           '/\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                     
+#######
+Secret word : -RI---
+Your guesses: AEIOUR
+Guesses left: 4
+Your guess? e
+You already guessed that letter.
+Your guess? what is wrong
+Type a single letter from A-Z.
+Your guess? oh ok
+Type a single letter from A-Z.
+Your guess? D
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : -RI---
+Your guesses: AEIOURD
+Guesses left: 3
+Your guess? t
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : TRI---
+Your guesses: AEIOURDT
+Guesses left: 3
+Your guess? c
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : TRIC--
+Your guesses: AEIOURDTC
+Guesses left: 3
+Your guess? f
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : TRIC--
+Your guesses: AEIOURDTCF
+Guesses left: 2
+Your guess? X
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|                 
+    (_   _    _)       _|_L1____|_
+      (_) (__)        [___________]          _(  )_( )_
+                      /           \        (_   _    _)
+                     ()           ()         (_) (__)
+                      \           /            
+                  _\/  \         /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^
+#######
+Secret word : TRIC--
+Your guesses: AEIOURDTCFX
+Guesses left: 1
+Your guess? yeah
+Type a single letter from A-Z.
+Your guess? y
+Correct!
+                        .-------.
+     _(  )_( )_         |_______|                 
+    (_   _    _)       _|_L1____|_
+      (_) (__)        [___________]          _(  )_( )_
+                      /           \        (_   _    _)
+                     ()           ()         (_) (__)
+                      \           /            
+                  _\/  \         /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^
+#######
+Secret word : TRIC-Y
+Your guesses: AEIOURDTCFXY
+Guesses left: 1
+Your guess? y
+You already guessed that letter.
+Your guess? a
+You already guessed that letter.
+Your guess? e
+You already guessed that letter.
+Your guess? i
+You already guessed that letter.
+Your guess? o
+You already guessed that letter.
+Your guess? r
+You already guessed that letter.
+Your guess? s
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|               
+    (_   _    _)       _|_L1____|_          \__|__/
+      (_) (__)        [___________]         /     \
+                      /           \      --:       :--
+                     ()   O  O    ()        \_____/
+                      \ ~~~       /         /  |  \
+                  _\/  \  .''.   /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^  
+#######
+You lose! My word was "TRICKY".
+Play again (Y/N)? t
+Illegal boolean format
+Play again (Y/N)? m
+Illegal boolean format
+Play again (Y/N)? y
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : ----------
+Your guesses: 
+Guesses left: 8
+Your guess? a
+Correct!
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : -----A----
+Your guesses: A
+Guesses left: 8
+Your guess? b
+Incorrect.
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+
+
+                        -----------
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                  
+#######
+Secret word : -----A----
+Your guesses: AB
+Guesses left: 7
+Your guess? c
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : -----A----
+Your guesses: ABC
+Guesses left: 6
+Your guess? d
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : -----A----
+Your guesses: ABCD
+Guesses left: 5
+Your guess? e
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : -----A--E-
+Your guesses: ABCDE
+Guesses left: 5
+Your guess? f
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /    \/_               
+                   \\   {'------'}_   //
+                    \\  /          \ //
+                     \/'           '/\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                     
+#######
+Secret word : -----A--E-
+Your guesses: ABCDEF
+Guesses left: 4
+Your guess? i
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : -----A--E-
+Your guesses: ABCDEFI
+Guesses left: 3
+Your guess? o
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : --O--A--E-
+Your guesses: ABCDEFIO
+Guesses left: 3
+Your guess? u
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : --O--A--E-
+Your guesses: ABCDEFIOU
+Guesses left: 2
+Your guess? m
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : --O--AMME-
+Your guesses: ABCDEFIOUM
+Guesses left: 2
+Your guess? r
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : -RO-RAMMER
+Your guesses: ABCDEFIOUMR
+Guesses left: 2
+Your guess? y
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|                 
+    (_   _    _)       _|_L1____|_
+      (_) (__)        [___________]          _(  )_( )_
+                      /           \        (_   _    _)
+                     ()           ()         (_) (__)
+                      \           /            
+                  _\/  \         /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^
+#######
+Secret word : -RO-RAMMER
+Your guesses: ABCDEFIOUMRY
+Guesses left: 1
+Your guess? a
+You already guessed that letter.
+Your guess? b
+You already guessed that letter.
+Your guess? c
+You already guessed that letter.
+Your guess? d
+You already guessed that letter.
+Your guess? e
+You already guessed that letter.
+Your guess? f
+You already guessed that letter.
+Your guess? g
+Correct!
+                        .-------.
+     _(  )_( )_         |_______|                 
+    (_   _    _)       _|_L1____|_
+      (_) (__)        [___________]          _(  )_( )_
+                      /           \        (_   _    _)
+                     ()           ()         (_) (__)
+                      \           /            
+                  _\/  \         /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^
+#######
+Secret word : -ROGRAMMER
+Your guesses: ABCDEFIOUMRYG
+Guesses left: 1
+Your guess? h
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|               
+    (_   _    _)       _|_L1____|_          \__|__/
+      (_) (__)        [___________]         /     \
+                      /           \      --:       :--
+                     ()   O  O    ()        \_____/
+                      \ ~~~       /         /  |  \
+                  _\/  \  .''.   /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^  
+#######
+You lose! My word was "PROGRAMMER".
+Play again (Y/N)? i
+Illegal boolean format
+Play again (Y/N)? j
+Illegal boolean format
+Play again (Y/N)? k
+Illegal boolean format
+Play again (Y/N)? Y
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : --------
+Your guesses: 
+Guesses left: 8
+Your guess? a
+Incorrect.
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+
+
+                        -----------
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                  
+#######
+Secret word : --------
+Your guesses: A
+Guesses left: 7
+Your guess? b
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : --------
+Your guesses: AB
+Guesses left: 6
+Your guess? c
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : C-------
+Your guesses: ABC
+Guesses left: 6
+Your guess? e
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : C-----E-
+Your guesses: ABCE
+Guesses left: 6
+Your guess? s
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : C-----E-
+Your guesses: ABCES
+Guesses left: 5
+Your guess? r
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : C-----ER
+Your guesses: ABCESR
+Guesses left: 5
+Your guess? g
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /    \/_               
+                   \\   {'------'}_   //
+                    \\  /          \ //
+                     \/'           '/\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                     
+#######
+Secret word : C-----ER
+Your guesses: ABCESRG
+Guesses left: 4
+Your guess? Y
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : C-----ER
+Your guesses: ABCESRGY
+Guesses left: 3
+Your guess? a
+You already guessed that letter.
+Your guess? b
+You already guessed that letter.
+Your guess? c
+You already guessed that letter.
+Your guess? d
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : C-----ER
+Your guesses: ABCESRGYD
+Guesses left: 2
+Your guess? e
+You already guessed that letter.
+Your guess? f
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|                 
+    (_   _    _)       _|_L1____|_
+      (_) (__)        [___________]          _(  )_( )_
+                      /           \        (_   _    _)
+                     ()           ()         (_) (__)
+                      \           /            
+                  _\/  \         /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^
+#######
+Secret word : C-----ER
+Your guesses: ABCESRGYDF
+Guesses left: 1
+Your guess? g
+You already guessed that letter.
+Your guess? h
+Incorrect.
+                        .-------.
+     _(  )_( )_         |_______|               
+    (_   _    _)       _|_L1____|_          \__|__/
+      (_) (__)        [___________]         /     \
+                      /           \      --:       :--
+                     ()   O  O    ()        \_____/
+                      \ ~~~       /         /  |  \
+                  _\/  \  .''.   /   \/_           
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^  
+#######
+You lose! My word was "COMPUTER".
+Play again (Y/N)? i
+Illegal boolean format
+Play again (Y/N)? j
+Illegal boolean format
+Play again (Y/N)? k
+Illegal boolean format
+Play again (Y/N)? l
+Illegal boolean format
+Play again (Y/N)? m
+Illegal boolean format
+Play again (Y/N)? n
+
+Overall statistics:
+Games played: 4
+Games won:    0
+Win percent:  0.0%
+Best game:    0 guess(es) remaining
+Thanks for playing!

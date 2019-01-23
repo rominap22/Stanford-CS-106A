@@ -1,0 +1,152 @@
+CS 106A Snowman!
+I will think of a random word.
+You'll try to guess its letters.
+Every time you guess a letter
+that isn't in my word, a new
+piece of the snowman appears.
+Guess correctly to avoid 
+bringing him to life in the sun!
+
+Dictionary filename? dict.txt
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : ----
+Your guesses: 
+Guesses left: 8
+Your guess? t
+Incorrect.
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+
+
+                        -----------
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                  
+#######
+Secret word : ----
+Your guesses: T
+Guesses left: 7
+Your guess? s
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : ----
+Your guesses: TS
+Guesses left: 6
+Your guess? a
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : -A-A
+Your guesses: TSA
+Guesses left: 6
+Your guess? v
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : -AVA
+Your guesses: TSAV
+Guesses left: 6
+Your guess? q
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : -AVA
+Your guesses: TSAVQ
+Guesses left: 5
+Your guess? T
+You already guessed that letter.
+Your guess? j
+Correct!
+You win! My word was "JAVA".

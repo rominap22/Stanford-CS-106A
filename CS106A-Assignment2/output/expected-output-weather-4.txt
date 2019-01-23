@@ -1,0 +1,3 @@
+CS 106A "Weather Master 4000"!
+Next temperature (or -1 to quit)? -1
+No temperatures were entered.

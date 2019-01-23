@@ -1,0 +1,7 @@
+CS 106A "Weather Master 4000"!
+Next temperature (or -1 to quit)? -10
+Next temperature (or -1 to quit)? -1
+Highest temperature = -10
+Lowest temperature = -10
+Average = -10.0
+1 cold day(s).

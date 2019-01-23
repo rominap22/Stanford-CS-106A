@@ -1,0 +1,13 @@
+CS 106A "Weather Master 4000"!
+Next temperature (or -1 to quit)? 68
+Next temperature (or -1 to quit)? 94
+Next temperature (or -1 to quit)? 76
+Next temperature (or -1 to quit)? 45
+Next temperature (or -1 to quit)? 89
+Next temperature (or -1 to quit)? 36
+Next temperature (or -1 to quit)? 73
+Next temperature (or -1 to quit)? -1
+Highest temperature = 94
+Lowest temperature = 36
+Average = 68.71428571428571
+2 cold day(s).

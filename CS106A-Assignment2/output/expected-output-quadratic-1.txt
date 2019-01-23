@@ -1,0 +1,5 @@
+CS 106A Quadratic Solver!
+Enter a: 1
+Enter b: -3
+Enter c: -4
+Two roots: 4.0 and -1.0

@@ -1,0 +1,312 @@
+CS 106A Snowman!
+I will think of a random word.
+You'll try to guess its letters.
+Every time you guess a letter
+that isn't in my word, a new
+piece of the snowman appears.
+Guess correctly to avoid 
+bringing him to life in the sun!
+
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : ----------
+Your guesses: 
+Guesses left: 8
+Your guess? r
+Correct!
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+                                                              
+                                                    
+                                                  
+                                                  
+                                                   
+        __,. -- ~~ ~  ~ ~~~ ---  ~~~ ~  ~ ~~ -- . __   
+#######
+Secret word : -R--R----R
+Your guesses: R
+Guesses left: 8
+Your guess? s
+Incorrect.
+                        
+       .\/.                            
+     -\_}{_/_          
+      / }{ \                                   .\/.
+       '/\'                                  -\_\/_/_
+                                              / /\ \
+                                               '/\'
+
+
+                        -----------
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                  
+#######
+Secret word : -R--R----R
+Your guesses: RS
+Guesses left: 7
+Your guess? t
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : -R--R----R
+Your guesses: RST
+Guesses left: 6
+Your guess? p
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                       \         /                   
+                        {'------'}_
+                       /'          \ 
+                      /'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^      
+#######
+Secret word : PR--R----R
+Your guesses: RSTP
+Guesses left: 6
+Your guess? x
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : PR--R----R
+Your guesses: RSTPX
+Guesses left: 5
+Your guess? o
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /                  
+                   \\   {'------'}_   
+                    \\  /          \ 
+                     \/'            '\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                         
+#######
+Secret word : PRO-R----R
+Your guesses: RSTPXO
+Guesses left: 5
+Your guess? n
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /    \/_               
+                   \\   {'------'}_   //
+                    \\  /          \ //
+                     \/'           '/\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                     
+#######
+Secret word : PRO-R----R
+Your guesses: RSTPXON
+Guesses left: 4
+Your guess? g
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /    \/_               
+                   \\   {'------'}_   //
+                    \\  /          \ //
+                     \/'           '/\
+                     /'               \
+        __,. -- ~~ ~|                  |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                     
+#######
+Secret word : PROGR----R
+Your guesses: RSTPXONG
+Guesses left: 4
+Your guess? y
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : PROGR----R
+Your guesses: RSTPXONGY
+Guesses left: 3
+Your guess? m
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'      |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|         '\|      |~ ~~ -- . __
+                    |                  |
+                    \                 /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^                        
+#######
+Secret word : PROGR-MM-R
+Your guesses: RSTPXONGYM
+Guesses left: 3
+Your guess? d
+Incorrect.
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : PROGR-MM-R
+Your guesses: RSTPXONGYMD
+Guesses left: 2
+Your guess? e
+Correct!
+                       
+       .\/.                        
+     -\_}{_/_           ---------
+      / }{ \           /         \             .\/.
+       '/\'           /           \          -\_\/_/_
+                     ()           ()          / /\ \
+                      \           /            '/\'
+                  _\/  \         /   \/_               
+                   \\   {'------'}   //
+                    \\  /'----/','\\ //
+                     \/'  o   |A|\ \'/\
+                     /'       |W| \/ /\
+        __,. -- ~~ ~|    o    '\|      |~ ~~ -- . __
+                    |                  |
+                    \    o            /
+                     .               ,
+                       ._           .
+                          ^~- . - ~^    
+#######
+Secret word : PROGR-MMER
+Your guesses: RSTPXONGYMDE
+Guesses left: 2
+Your guess? a
+Correct!
+You win! My word was "PROGRAMMER".

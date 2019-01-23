@@ -1,0 +1,21 @@
+This program computes Hailstone sequences.
+
+Enter a number: 5
+5 is odd, so I make 3n + 1: 16
+16 is even, so I take half: 8
+8 is even, so I take half: 4
+4 is even, so I take half: 2
+2 is even, so I take half: 1
+It took 5 steps to reach 1.
+Run again? y
+
+Enter a number: 10
+10 is even, so I take half: 5
+5 is odd, so I make 3n + 1: 16
+16 is even, so I take half: 8
+8 is even, so I take half: 4
+4 is even, so I take half: 2
+2 is even, so I take half: 1
+It took 6 steps to reach 1.
+Run again? n
+Thanks for using Hailstone.
